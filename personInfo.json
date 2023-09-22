@@ -1,0 +1,195 @@
+{
+  "firstName": "Mirian",
+  "lastName": "Revishvili",
+  "userImage1": "https://unilab.iliauni.edu.ge/wp-content/uploads/2022/04/giga-khundadze.png",
+  "userImage": "https://unilab.iliauni.edu.ge/wp-content/uploads/2022/04/giga-khundadze.png",
+  "age": "30",
+  "address": "Tbilisi, Georgia",
+  "job": "Front-End",
+  "residence": "BD",
+  "freelance": "busy",
+  "resumeURL": "https://drive.google.com/file/d/1ZmW_lD2I2T7yD8JKlDUiU2Eydz2Xpl1w/view",
+
+  "social": [
+    {
+      "title": "facebook",
+      "url": "www.facebook.com"
+    }
+  ],
+  "aboutUser": "hello",
+  "shapes": [
+    {
+      "shape": "circle"
+    },
+    {
+      "shape": "square"
+    },
+    {
+      "shape": "circle"
+    },
+    {
+      "shape": "square"
+    },
+    {
+      "shape": "circle"
+    },
+    {
+      "shape": "square"
+    },
+    {
+      "shape": "circle"
+    },
+    {
+      "shape": "square"
+    },
+    {
+      "shape": "circle"
+    },
+    {
+      "shape": "square"
+    },
+    {
+      "shape": "circle"
+    },
+    {
+      "shape": "square"
+    },
+    {
+      "shape": "circle"
+    },
+    {
+      "shape": "square"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "level": 70
+    },
+    {
+      "language": "Georgian",
+      "level": 99
+    },
+    {
+      "language": "Russian",
+      "level": 99
+    }
+  ],
+  "skills": [
+    {
+      "language": "React",
+      "level": 70
+    },
+    {
+      "language": "HTML",
+      "level": 80
+    },
+    {
+      "language": "CSS",
+      "level": 80
+    },
+    {
+      "language": "JavaScript",
+      "level": 70
+    },
+    {
+      "language": "TypeScript",
+      "level": 30
+    }
+  ],
+  "extraSkills": [
+    {
+      "icon": "Bootstrap, Materialize"
+    },
+    {
+      "icon": " Sass"
+    },
+    {
+      "icon": "Responsive Design"
+    },
+    {
+      "icon": "Git Hub"
+    }
+  ],
+  "myServiceDescription": "I am a frontend developer with a passion for creating beautiful and functional websites. My journey began in 2020 when I started learning HTML and CSS at Geolab, a leading technology education center. I was fascinated by the possibilities that these technologies offered, and I worked hard to master them.",
+  "services": [
+    {
+      "title": "Web Development",
+      "description": "Blog, E-Comerce, Portfolio",
+      "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/web-development.jpg"
+    },
+    {
+      "title": "IT Support",
+      "description": "It support for company, group of Developers",
+      "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/it-support.jpeg"
+    },
+    {
+      "title": "IT Consulting",
+      "description": "It consultant for your business",
+      "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/it-consulting.webp"
+    },
+    {
+      "title": "Site Administration",
+      "description": "Administrator for your website",
+      "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/site-admin.png"
+    },
+    {
+      "title": "UX Consultant",
+      "description": "Useful advivces based on frontend-development experience",
+      "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/ux-design.jpg"
+    }
+  ],
+  "education": {
+    "items": [
+      {
+        "title": "Programming Course React.Js",
+        "learner": "Student",
+        "graduation": "Sep 2023",
+        "certificate": " React.Js course at the laboratory of new technologies and inovations - GeoLab",
+        "description": " GeoLab - is a mobile and web applications laboratory. This space is open 24 hours for different, interesting and innovative projects. The training center is an indivisible part of GeoLab, which provides various directions to match anyone’s sphere of interest."
+      },
+      {
+        "title": "Programming Course Front-end web development",
+        "learner": "Student",
+        "graduation": "Dec 2022",
+        "certificate": "",
+        "description": "GeoLab - is a mobile and web applications laboratory. This space is open 24 hours for different, interesting and innovative projects. The training center is an indivisible part of GeoLab, which provides various directions to match anyone’s sphere of interest."
+      }
+    
+    ]
+  },
+
+  "contactinfo": [
+    {
+      "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/design.svg",
+      "data": [
+        {
+          "label": "Country",
+          "value": "Georgia"
+        },
+        {
+          "label": "City",
+          "value": "Tbilisi"
+        },
+        {
+          "label": "Street",
+          "value": "Dumbadze"
+        }
+      ]
+    },
+    {
+      "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/photography.svg",
+      "data": [
+        {
+          "label": "Email",
+          "value": "mirianrevish@gmail.com"
+        },
+        {
+          "label": "Linkden",
+          "value": "www.linkedin.com/in/mirian-revishvili-01b626264"
+        }
+      ]
+    }
+  
+  ]
+}
